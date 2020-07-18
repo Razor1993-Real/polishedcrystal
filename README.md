@@ -1,4 +1,10 @@
-# Pokémon Polished Crystal
+# Pokémon Polished Crystal - GERMANIZED
+
+Heyy Yall,
+This is the Germanized Version of Rangi42´s Polished Crystal!
+Have Fun!
+
+Official Description:
 
 This is a custom Pokémon game based on [the Pokémon Crystal disassembly](https://github.com/pret/pokecrystal).
 
